@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skhumal
 - 👀 I’m interested in ...Building accessible and user-friendly web applications
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...Web development
 - 💞️ I’m looking to collaborate on ...Projects that prioritize user experience and accessibility
 - 📫 How to reach me ...Email: [candykhumalo2023@gmail.com]    LinkedIn: [www.linkedin.com/in/candy-khumalo-7251552b6]
 - 😄 Pronouns: ...He/Him
