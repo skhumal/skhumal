@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @skhumal
-- 👀 I’m interested in ...Building accessible and user-friendly web applications
-- 🌱 I’m currently learning ...Web development
-- 💞️ I’m looking to collaborate on ...Projects that prioritize user experience and accessibility
-- 📫 How to reach me ...Email: [candykhumalo2023@gmail.com]    LinkedIn: [www.linkedin.com/in/candy-khumalo-7251552b6]
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I love exploring the intersection of technology and fashion, whether I'm developing websites or sketching my next clothing design.
+👋 Hey there, I’m @skhumal
+🚀 Aspiring Front-End Developer | Passionate about accessible & user-friendly web applications
 
-<!---
-skhumal/skhumal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 What I’m Interested In
+Crafting intuitive and inclusive digital experiences that make the web better for everyone.
+
+🌱 Currently Learning
+Deepening my skills in HTML, CSS, JavaScript, and UI/UX principles to build modern, functional web applications.
+
+💡 Open to Collaboration
+Looking to contribute to projects that focus on usability, accessibility, and seamless user experiences.
+
+📫 Let's Connect
+📩 Email: candykhumalo2023@gmail.com
+🔗 LinkedIn: linkedin.com/in/candy-khumalo-7251552b6
+
+⚡ Fun Fact
+When I’m not coding, I’m exploring the intersection of tech and fashion—whether it's designing websites or sketching my next clothing concept.
+
+
